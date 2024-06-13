@@ -1,0 +1,45 @@
+.create-wrap {
+  width: 90%;
+  min-width: 500px;
+  height: auto;
+  margin: auto;
+  background-color: aliceblue;
+  text-align: left;
+  margin-top: 50px;
+  padding: 50px 0;
+}
+.create-wrap form {
+  width: 100%;
+}
+.create-wrap div {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.create-wrap label {
+  width: 10%;
+}
+.create-wrap .l-box {
+  border: none;
+  width: 70%;
+  font-size: 20px;
+  padding: 10px;
+}
+button[type="submit"] {
+  display: block;
+  width: 80%;
+  padding: 10px;
+  background-color: orange;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.read-wrap {
+  height: auto;
+}
+
+.pagi-wrap {
+  height: 100px;
+  background-color: beige;
+}

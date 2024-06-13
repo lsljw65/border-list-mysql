@@ -1,0 +1,25 @@
+#App {
+  text-align: center;
+  width: 100%;
+  max-width: 1330px;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #eee;
+  height: 100%;
+}
+.lib {
+  background-color: rgb(215, 240, 248);
+  border: 2px solid #333;
+  border-left-style: none;
+  border-right-style: none;
+  margin-top: 50px;
+  padding: 20px 0;
+}
+.board {
+  margin-top: 50px;
+  padding: 20px;
+  border: 2px solid limegreen;
+  border-left-style: none;
+  border-right-style: none;
+  text-align: left;
+}
